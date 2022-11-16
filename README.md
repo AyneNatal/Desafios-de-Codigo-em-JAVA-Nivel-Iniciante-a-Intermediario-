@@ -18,6 +18,8 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 **> Desafios do site CODEWARS**
 * [Four/Seven | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars1.java)
 * [I love you, a little, a lot, passionately... not at all | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars2.java)
+* [Mumbling | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars3.java)
+* [Coloured Triangles | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars4.java)
 
 
 *Em construção...*
