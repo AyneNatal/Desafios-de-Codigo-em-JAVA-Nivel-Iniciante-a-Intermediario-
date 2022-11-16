@@ -12,7 +12,7 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Desafio 2](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio2.java)
 * [Desafio 3](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio3.java)
 * [Desafio 4](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio4.java)
-
+* [Desafio 5](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio5.java)
 
 
 **> Desafios do site CODEWARS**
@@ -20,6 +20,8 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [I love you, a little, a lot, passionately... not at all | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars2.java)
 * [Mumbling | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars3.java)
 * [Coloured Triangles | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars4.java)
-
+* [Build a square | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars5.java)
+* [Print Errors | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars6.java)
+* [If you can't sleep, just count sheep!! | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars7.java)
 
 *Em construção...*
