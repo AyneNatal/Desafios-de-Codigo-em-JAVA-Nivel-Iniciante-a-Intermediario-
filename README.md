@@ -13,6 +13,8 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Desafio 3](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio3.java)
 * [Desafio 4](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio4.java)
 * [Desafio 5](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio5.java)
+* [Desafio 6](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio6.java)
+* [Desafio 7](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio7.java)
 
 
 **> Desafios do site CODEWARS**
@@ -23,5 +25,6 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Build a square | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars5.java)
 * [Print Errors | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars6.java)
 * [If you can't sleep, just count sheep!! | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars7.java)
+* [Convert number to reversed array of digits | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars8.java)
 
 *Em construção...*
