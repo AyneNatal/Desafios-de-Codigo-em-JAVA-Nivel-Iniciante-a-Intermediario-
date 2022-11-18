@@ -3,6 +3,7 @@
 Desafios de código diversos de alguns sites de Challenges ou de alguns exercícios de fixação.
 #
 
+<<Esses são alguns exercícios/desafios que estou resolvendo no meu processo de aprendizagem>>
 
 ## Lista dos Desafios: [Todos os Desafios](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/tree/main/src/desafios)
 
