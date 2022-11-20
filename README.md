@@ -18,9 +18,10 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Desafio 5](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio5.java)
 * [Desafio 6](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio6.java)
 * [Desafio 7](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio7.java)
+* [Desafio 8](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio8.java)
 
 
-**> Desafios do site CODEWARS**
+**> Desafios do site CODEWARS (Os desafios no site vão do 1 Kyu (mais difíceis) até o 8 kyu (mais fáceis)**
 * [Four/Seven | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars1.java)
 * [I love you, a little, a lot, passionately... not at all | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars2.java)
 * [Mumbling | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars3.java)
