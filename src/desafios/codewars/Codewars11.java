@@ -12,11 +12,11 @@ public class Codewars11 {
     }
 
     //RESOLUÇÃO:
-//    public static String switcheroo(String x) {
-//        return x.replace('a', '_')
-//                .replace('b', 'a')
-//                .replace('_', 'b');
-//    }
+    public static String switcheroo(String x) {
+        return x.replace('a', '_')
+                .replace('b', 'a')
+                .replace('_', 'b');
+    }
 
     /*
     OUTRA FORMA DE RESOLVER:
