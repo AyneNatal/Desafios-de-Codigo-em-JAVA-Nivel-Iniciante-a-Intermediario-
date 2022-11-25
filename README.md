@@ -36,5 +36,6 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Switcheroo | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars11.java)
 * [To square(root) or not to square(root) | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars12.java)
 * [Small enough-Beginner | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars13.java)
+* [Multiples of 3 or 5 | 6 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars14.java)
 
 *Em construção...*
