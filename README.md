@@ -21,6 +21,8 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Desafio 8](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio8.java)
 * [Desafio 9](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio9.java)
 * [Desafio 10](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio10.java)
+* [Desafio 11](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio11.java)
+* [Desafio 12](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio12.java)
 
 
 **> Desafios do site CODEWARS (Os desafios no site vão de 8 kyu (mais fáceis) até 1 Kyu (mais difíceis))**
@@ -40,5 +42,6 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Multiples of 3 or 5 | 6 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars14.java)
 * [Equal Sides Of An Array | 6 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars15.java)
 * [Jaden Casing Strings | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars16.java)
+* [Flatten and Sorter an array | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars17.java)
 
 *Em construção...*
