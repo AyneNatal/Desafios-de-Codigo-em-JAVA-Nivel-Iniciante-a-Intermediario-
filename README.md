@@ -50,5 +50,6 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Flatten and Sorter an array | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars17.java)
 * [altERnaTIng cAsE <=> ALTerNAtiNG CaSe | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars18.java)
 * [Disemvowel Trolls | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars19.java)
+* [Cat years, Dog years | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars20.java)
 
 *Em construção...*
