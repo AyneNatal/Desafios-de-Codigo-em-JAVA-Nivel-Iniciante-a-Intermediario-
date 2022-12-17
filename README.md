@@ -51,6 +51,6 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [altERnaTIng cAsE <=> ALTerNAtiNG CaSe | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars18.java)
 * [Disemvowel Trolls | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars19.java)
 * [Cat years, Dog years | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars20.java)
-* [Correct the time-string | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/commit/5d006c9d932d4a649e1ea8eb5c7f0b8fd71cc8b1)
+* [Correct the time-string | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars21.java)
 
 *Em construção...*
