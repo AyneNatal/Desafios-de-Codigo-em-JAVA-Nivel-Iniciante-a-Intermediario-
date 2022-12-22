@@ -28,6 +28,7 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Desafio 13](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio13.java)
 * [Desafio 14](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio14.java)
 * [Desafio 15](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio15.java)
+* [Desafio 16](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/diversos/Desafio16.java)
 
 
 **> Desafios do site CODEWARS (Os desafios no site vão de 8 kyu (mais fáceis) até 1 Kyu (mais difíceis))**
