@@ -53,5 +53,6 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Disemvowel Trolls | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars19.java)
 * [Cat years, Dog years | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars20.java)
 * [Correct the time-string | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars21.java)
+* [Complementary DNA | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars22.java)
 
 *Em construção...*
