@@ -16,7 +16,7 @@ public class Codewars24 {
     //RESOLVENDO:
     public static String removeParentheses(final String str) {
         String newString = str.replaceAll("\\([^()]*\\)", ""); //regex para remover os parenteses e seu conteúdo.
-        if (newString.contains("(")) { //se após remover o primeiro conjunto de parenteses SE houver outros parenteses...
+        if (newString.contains("(")) { //SE após remover o primeiro conjunto de parenteses AINDA houver outros parenteses...
             newString = removeParentheses(newString); //...remova os parenteses novamente (recursividade para remover parenteses aninhados).
         }
 
