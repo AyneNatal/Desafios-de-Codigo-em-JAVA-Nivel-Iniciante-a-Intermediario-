@@ -8,9 +8,9 @@ package desafios.codewars;
 public class Codewars24 {
     //TESTES:
     public static void main(String[] args) {
-        System.out.println("example(unwanted thing)example = " + removeParentheses("example(unwanted thing)example")); //exampleexample
-        System.out.println("example (unwanted thing) example = " + removeParentheses("example (unwanted thing) example")); //example  example
-        System.out.println("a(b(c)) = " + removeParentheses("a(b(c))")); //a
+        System.out.println("1- example(unwanted thing)example = " + removeParentheses("example(unwanted thing)example")); //exampleexample
+        System.out.println("1- example (unwanted thing) example = " + removeParentheses("example (unwanted thing) example")); //example  example
+        System.out.println("1- a(b(c)) = " + removeParentheses("a(b(c))")); //a
     }
 
     //RESOLVENDO:
@@ -22,6 +22,16 @@ public class Codewars24 {
 
         return newString;
     }
+
+    //OUTRA FORMA DE RESOLVER:
+    /*
+    public static String removeParentheses(String str) {
+        while(str.contains("(")){
+            str = str.replaceAll("\\([^()]*\\)","");
+        }
+        return str;
+    }
+    */
 }
 
 
@@ -40,3 +50,4 @@ public class Codewars24 {
     Portanto, a expressão regular completa procura por um par de parênteses e qualquer coisa entre eles, mas não inclui outros parênteses aninhados.
 
 */
+
