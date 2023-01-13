@@ -62,6 +62,7 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [More Zeros than Ones | 6 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars26.java)
 * [If you can't sleep, just count sheep!! | 8 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars27.java)
 * [Beginner Series #3 Sum of Numbers | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/CodeWars28.java)
+* [Find the unique number | 6 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars29.java)
 
 
 *Em construção...*
