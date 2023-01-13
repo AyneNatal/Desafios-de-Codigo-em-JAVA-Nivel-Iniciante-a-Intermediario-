@@ -39,7 +39,7 @@ public class Codewars29 {
 
     /*
 
-    OUTRA FORMA DE RESOLVER:
+    > OUTRA FORMA DE RESOLVER:
 
     public static double findUniq(double arr[]) {
         Arrays.sort(arr);
