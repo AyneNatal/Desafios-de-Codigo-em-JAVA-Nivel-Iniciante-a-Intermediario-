@@ -66,6 +66,7 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Sum of Digits / Digital Root | 6 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars30.java)
 * [Sum of odd numbers | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars31.java)
 * [RGB To Hex Conversion | 5 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars32.java)
+* [Mean Square Error | 5 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars33.java)
 
 
 *Em construção...*
