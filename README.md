@@ -68,6 +68,7 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [RGB To Hex Conversion | 5 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars32.java)
 * [Mean Square Error | 5 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars33.java)
 * [Persistent Bugger. | 6 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars34.java)
+* [Backspaces in string | 6 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars35.java)
 
 
 *Em construção...*
