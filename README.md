@@ -1,6 +1,6 @@
 ![logo com fundo laranja e o título em preto: Desafios em java do Iniciante ao Intermediário e com uma imagem de uma xicara de café](https://user-images.githubusercontent.com/77463370/201490912-bee87527-6bf1-4d6f-9e61-f82a814eca17.png)
 
-Desafios de código diversos de alguns sites de Challenges ou de alguns exercícios de fixação.
+Desafios de código diversos de alguns sites de Challenges ou de alguns exercícios de fixação
 #
 
 <<Esses são alguns exercícios/desafios que estou resolvendo no meu processo de aprendizagem>>
