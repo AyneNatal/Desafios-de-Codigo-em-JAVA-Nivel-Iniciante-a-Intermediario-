@@ -2,7 +2,7 @@ package desafios.codewars;
 
 /*
 DESAFIO CODEWARS -> Small enough-Beginner | 7 Kyu
-Link para o desafio -> https://www.codewars.com/kata/57cc981a58da9e302a000214/solutions/java
+Link para o desafio -> https://www.codewars.com/kata/57cc981a58da9e302a000214
 */
 
 import java.util.Arrays;
