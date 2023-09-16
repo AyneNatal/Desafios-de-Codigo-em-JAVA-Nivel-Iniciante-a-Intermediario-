@@ -74,4 +74,4 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [The Office II-Boredom Score | 7 Kyu](https://github.com/AyneNatal/Desafios-de-Codigo-em-JAVA-Nivel-Iniciante-a-Intermediario-/blob/main/src/desafios/codewars/Codewars36.java)
 
 
-*Em construção...*
+*Em construção...* 🔨
